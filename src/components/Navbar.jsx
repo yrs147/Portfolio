@@ -13,8 +13,8 @@ const Navbar = () => {
             <img src={Logo} alt="Logo Image" style={{width: '100px'}} />
         </div>
         {/*menu*/}
-        <ul className='hidden md:flex'>
-            <li>Home</li>
+        <ul className='hidden md:flex text-xl font-bold'>
+            <li >Home</li>
             <li>About</li>
             <li>Skills</li>
             <li>Projects</li>
