@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
-import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa'
-import {HiArrowNarrowRight, HiOutlineMail} from 'react-icons/hi'
+import {FaBars, FaTimes, FaGithub, FaLinkedin} from 'react-icons/fa'
+import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import Logo from '../assets/logo.png'
 import {Link} from 'react-scroll'
@@ -25,11 +25,11 @@ const Navbar = () => {
                     Skills
                 </Link>
             </li>
-            <li >
+            {/* <li >
                 <Link to="projects" smooth={true}  duration={500} >
                     Projects
                 </Link>
-            </li>
+            </li> */}
             <li >
                 <Link to="about" smooth={true}  duration={500} >
                     About
@@ -55,11 +55,11 @@ const Navbar = () => {
                     Skills
                 </Link>
             </li>
-            <li className='py-6 text-4xl'>
+            {/* <li className='py-6 text-4xl'>
                 <Link onClick={handleClick} to="projects" smooth={true}  duration={500} >
                     Projects
                 </Link>
-            </li>
+            </li> */}
             <li className='py-6 text-4xl'>
                 <Link onClick={handleClick}  to="about" smooth={true}  duration={500} >
                     About
