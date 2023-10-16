@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1a85e04a.css",
-    "main.js": "/portfolio/static/js/main.05bd237d.js",
-    "static/media/kubernetes.png": "/portfolio/static/media/kubernetes.20882f2ef8031236132b.png",
-    "static/media/postgres.png": "/portfolio/static/media/postgres.f02779907df94aa787d7.png",
-    "static/media/go.png": "/portfolio/static/media/go.5b6af70e09d7c3c8a943.png",
-    "static/media/python.png": "/portfolio/static/media/python.78f729f8997a073a13ba.png",
-    "static/media/jenkins.png": "/portfolio/static/media/jenkins.032f8c28f3328534eecd.png",
-    "static/media/redis.png": "/portfolio/static/media/redis.320329117d11fc3a1a7d.png",
-    "static/media/c.png": "/portfolio/static/media/c.47c5c502dea3f380753e.png",
-    "static/media/prometheus.png": "/portfolio/static/media/prometheus.c2905b85ff36e7f51c59.png",
-    "static/media/django.png": "/portfolio/static/media/django.4286aee6a8f7023ab429.png",
-    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/aws.png": "/portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
-    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/grafana.png": "/portfolio/static/media/grafana.c1b4a9de5ae262ca75bd.png",
-    "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/portfolio/index.html",
-    "main.1a85e04a.css.map": "/portfolio/static/css/main.1a85e04a.css.map",
-    "main.05bd237d.js.map": "/portfolio/static/js/main.05bd237d.js.map"
+    "main.css": "/Portfolio/static/css/main.1a85e04a.css",
+    "main.js": "/Portfolio/static/js/main.f464dd9a.js",
+    "static/media/kubernetes.png": "/Portfolio/static/media/kubernetes.20882f2ef8031236132b.png",
+    "static/media/postgres.png": "/Portfolio/static/media/postgres.f02779907df94aa787d7.png",
+    "static/media/go.png": "/Portfolio/static/media/go.5b6af70e09d7c3c8a943.png",
+    "static/media/python.png": "/Portfolio/static/media/python.78f729f8997a073a13ba.png",
+    "static/media/jenkins.png": "/Portfolio/static/media/jenkins.032f8c28f3328534eecd.png",
+    "static/media/redis.png": "/Portfolio/static/media/redis.320329117d11fc3a1a7d.png",
+    "static/media/c.png": "/Portfolio/static/media/c.47c5c502dea3f380753e.png",
+    "static/media/prometheus.png": "/Portfolio/static/media/prometheus.c2905b85ff36e7f51c59.png",
+    "static/media/django.png": "/Portfolio/static/media/django.4286aee6a8f7023ab429.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/grafana.png": "/Portfolio/static/media/grafana.c1b4a9de5ae262ca75bd.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1a85e04a.css.map": "/Portfolio/static/css/main.1a85e04a.css.map",
+    "main.f464dd9a.js.map": "/Portfolio/static/js/main.f464dd9a.js.map"
   },
   "entrypoints": [
     "static/css/main.1a85e04a.css",
-    "static/js/main.05bd237d.js"
+    "static/js/main.f464dd9a.js"
   ]
 }
